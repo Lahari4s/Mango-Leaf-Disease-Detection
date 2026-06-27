@@ -23,9 +23,6 @@ Image → Preprocessing → Model → Prediction
 - High accuracy predictions
 - Image-based diagnosis
 
-## 📊 Results
-(Add accuracy of each model if available)
-
 ## 🧪 How to Run
 1. Load dataset
 2. Train model / load .h5 file
